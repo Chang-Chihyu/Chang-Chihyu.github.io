@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "MPHOTO-StatisticsHds23(218)_.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Chih-Yu Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Stats+optimization"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
